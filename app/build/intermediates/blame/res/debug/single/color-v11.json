@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/bartek/.android/build-cache/42bfe0dfd7826c3242266feb953d4b56de5493b3/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/bartek/.android/build-cache/42bfe0dfd7826c3242266feb953d4b56de5493b3/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Sun Jul 09 22:20:10 CEST 2017
+base.0=/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_be0615b6535b292546a755bec9ab82505c48ebad
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_49bf4ea2e5503f153dacf7dea8deac01afc39ba3/classes.dex
+base.1=/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_49bf4ea2e5503f153dacf7dea8deac01afc39ba3
+file.0=/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_be0615b6535b292546a755bec9ab82505c48ebad/classes.dex

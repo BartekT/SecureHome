@@ -1,0 +1,4 @@
+#Thu Jul 06 08:20:50 CEST 2017
+base.0=/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+renamed.0=classes.dex
+file.0=/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

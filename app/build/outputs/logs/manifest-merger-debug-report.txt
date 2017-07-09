@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:7:5-34:19
+MERGED from [com.android.support:design:25.2.0] /home/bartek/.android/build-cache/3f8fef1254779b0f9623917d5565c4c53c0a16ca/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/bartek/.android/build-cache/42bfe0dfd7826c3242266feb953d4b56de5493b3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/bartek/.android/build-cache/edd40fdd9500e9c7b30a76d564079a2b3efc614b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/bartek/.android/build-cache/1b5016644cd65d77827bc6bc579e490c6bf7714b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /home/bartek/.android/build-cache/5ddf754780b2f09aad1fe9e75681d335fc89b9a4/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/bartek/.android/build-cache/dcb2e92a83fbcc25d18c216052d60723cbca53d9/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.2.0] /home/bartek/.android/build-cache/3da26b99bc9d6c6b764109d6c0569de140e28ac1/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/bartek/.android/build-cache/4b9e1a44147c36acaa09376a064c87d471c3fe2e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/bartek/.android/build-cache/58b5c31bc12814eab18664b9baa2b6ea6cc4ae68/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/bartek/.android/build-cache/c18fb9e6ba826902047f6785bb56bad0bea69b22/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/bartek/.android/build-cache/231389482575c10bdc36663853f9d4bac24bcc86/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/bartek/.android/build-cache/c5e4905fe6d2e64dbcb5d355a7c3d775f5fcdb04/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/bartek/.android/build-cache/5dc0fe54fb0f79e04b78cefc47210a1a3388a7c8/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.modelchip.securehome.MainActivity
+ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:13:9-22:20
+	android:label
+		ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:15:13-45
+	android:theme
+		ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:14:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:20:27-74
+meta-data#com.google.android.gms.version
+ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:27:9-29:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/bartek/.android/build-cache/dcb2e92a83fbcc25d18c216052d60723cbca53d9/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:29:13-66
+	android:name
+		ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:28:13-58
+activity#com.modelchip.securehome.SettingsActivity
+ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:31:9-33:72
+	android:label
+		ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:33:13-60
+	android:name
+		ADDED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml:32:13-45
+uses-sdk
+INJECTED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.2.0] /home/bartek/.android/build-cache/3f8fef1254779b0f9623917d5565c4c53c0a16ca/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/bartek/.android/build-cache/42bfe0dfd7826c3242266feb953d4b56de5493b3/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/bartek/.android/build-cache/edd40fdd9500e9c7b30a76d564079a2b3efc614b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/bartek/.android/build-cache/c9574b233fd2a13f4da73f35cbc9a0db09c5588f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /home/bartek/.android/build-cache/1b5016644cd65d77827bc6bc579e490c6bf7714b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /home/bartek/.android/build-cache/5ddf754780b2f09aad1fe9e75681d335fc89b9a4/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /home/bartek/.android/build-cache/d9e7445c18bc2d0a858749079fb5bc93dafdfb8b/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/bartek/.android/build-cache/dcb2e92a83fbcc25d18c216052d60723cbca53d9/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.2.0] /home/bartek/.android/build-cache/3da26b99bc9d6c6b764109d6c0569de140e28ac1/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/bartek/.android/build-cache/4b9e1a44147c36acaa09376a064c87d471c3fe2e/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/bartek/.android/build-cache/58b5c31bc12814eab18664b9baa2b6ea6cc4ae68/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/bartek/.android/build-cache/c18fb9e6ba826902047f6785bb56bad0bea69b22/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/bartek/.android/build-cache/231389482575c10bdc36663853f9d4bac24bcc86/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/bartek/.android/build-cache/c5e4905fe6d2e64dbcb5d355a7c3d775f5fcdb04/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.2.0] /home/bartek/.android/build-cache/5dc0fe54fb0f79e04b78cefc47210a1a3388a7c8/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /home/bartek/.android/build-cache/3f8fef1254779b0f9623917d5565c4c53c0a16ca/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bartek/AndroidStudioProjects/SecureHome/app/src/main/AndroidManifest.xml

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/bartek/.android/build-cache/3f8fef1254779b0f9623917d5565c4c53c0a16ca/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/bartek/.android/build-cache/3f8fef1254779b0f9623917d5565c4c53c0a16ca/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

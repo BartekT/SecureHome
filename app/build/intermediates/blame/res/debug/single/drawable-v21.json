@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/home/bartek/AndroidStudioProjects/SecureHome/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/bartek/.android/build-cache/3f8fef1254779b0f9623917d5565c4c53c0a16ca/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/bartek/.android/build-cache/42bfe0dfd7826c3242266feb953d4b56de5493b3/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/bartek/.android/build-cache/3f8fef1254779b0f9623917d5565c4c53c0a16ca/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/home/bartek/AndroidStudioProjects/SecureHome/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/bartek/.android/build-cache/3f8fef1254779b0f9623917d5565c4c53c0a16ca/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/home/bartek/AndroidStudioProjects/SecureHome/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/home/bartek/AndroidStudioProjects/SecureHome/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/home/bartek/AndroidStudioProjects/SecureHome/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/home/bartek/AndroidStudioProjects/SecureHome/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/bartek/.android/build-cache/42bfe0dfd7826c3242266feb953d4b56de5493b3/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/bartek/.android/build-cache/42bfe0dfd7826c3242266feb953d4b56de5493b3/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/bartek/.android/build-cache/42bfe0dfd7826c3242266feb953d4b56de5493b3/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/bartek/.android/build-cache/3f8fef1254779b0f9623917d5565c4c53c0a16ca/output/res/drawable-v21/avd_show_password.xml"
+    }
+]
