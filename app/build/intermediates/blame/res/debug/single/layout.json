@@ -8,12 +8,12 @@
         "source": "/home/bartek/.android/build-cache/42bfe0dfd7826c3242266feb953d4b56de5493b3/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
-        "source": "/home/bartek/.android/build-cache/3f8fef1254779b0f9623917d5565c4c53c0a16ca/output/res/layout/design_bottom_navigation_item.xml"
-    },
-    {
         "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
         "source": "/home/bartek/.android/build-cache/3f8fef1254779b0f9623917d5565c4c53c0a16ca/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/bartek/.android/build-cache/3f8fef1254779b0f9623917d5565c4c53c0a16ca/output/res/layout/design_bottom_navigation_item.xml"
     },
     {
         "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
@@ -40,12 +40,12 @@
         "source": "/home/bartek/.android/build-cache/42bfe0dfd7826c3242266feb953d4b56de5493b3/output/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
-        "source": "/home/bartek/.android/build-cache/42bfe0dfd7826c3242266feb953d4b56de5493b3/output/res/layout/notification_action.xml"
-    },
-    {
         "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/layout/content_main.xml",
         "source": "/home/bartek/AndroidStudioProjects/SecureHome/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/bartek/.android/build-cache/42bfe0dfd7826c3242266feb953d4b56de5493b3/output/res/layout/notification_action.xml"
     },
     {
         "merged": "/home/bartek/AndroidStudioProjects/SecureHome/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",

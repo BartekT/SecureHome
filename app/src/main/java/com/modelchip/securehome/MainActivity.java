@@ -202,12 +202,15 @@ public class MainActivity extends AppCompatActivity
                                     @Override
                                     public void run() {
                                         try {
-                                            final LinearLayout layout = (LinearLayout) findViewById(R.id.mainLayout);
-                                            layout.removeAllViews();
+                                            final LinearLayout layoutControl = (LinearLayout) findViewById(R.id.mainLayoutControl);
+                                            final LinearLayout layoutInfo = (LinearLayout) findViewById(R.id.mainLayoutInfo);
+                                            layoutControl.removeAllViews();
+                                            layoutInfo.removeAllViews();
                                             findViewById(R.id.loadingPanel).setVisibility(View.GONE);
                                             LayoutInflater inflater = getLayoutInflater();
                                             for (int i = 0; i < jArray.length(); i++) {
                                                 final JSONObject element = jArray.getJSONObject(i);
+                                                boolean isControl = false;
                                                 View myLayout = inflater.inflate(R.layout.entry_layout, null);
                                                 TextView myText = (TextView) myLayout.findViewById(R.id.desc);
                                                 myText.setText(element.getString("Title"));
@@ -216,6 +219,7 @@ public class MainActivity extends AppCompatActivity
                                                     myButton.setText(element.getString("Button"));
                                                     myButton.setVisibility(View.VISIBLE);
                                                     setOnClick(myButton, element.getString("Filename"));
+                                                    isControl = true;
                                                 }
                                                 if (element.has("Text")) {
                                                     myText.setText(element.getString("Title") + " ("+ element.getString("Text") + ")");
@@ -230,7 +234,11 @@ public class MainActivity extends AppCompatActivity
 
                                                     }
                                                 }
-                                                layout.addView(myLayout);
+                                                if(isControl) {
+                                                    layoutControl.addView(myLayout);
+                                                } else {
+                                                    layoutInfo.addView(myLayout);
+                                                }
                                             }
                                         } catch (JSONException e) {
                                             e.printStackTrace();
